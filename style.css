@@ -1,6 +1,14 @@
-
+#body {
+    background-color: #f3f6f3;
+  }
+  
 header{
     margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 24px;
+}
+.aa{
+   
 }
 .navbar-nav{
     width: 40px;
@@ -20,10 +28,41 @@ header{
 } */
 main{
     width: 780px;
+    font-weight: 700;
+    font-size: 17px;
 }
 .top-player{
+    background-color: #ffffff;
+    border: none;
     
 }
 .flex{
     display: flex;
+    border: none;
+    margin-bottom: 10px;
+    
+}
+.hh{
+    display: flex;
+}
+.flex img{
+    width: 130px;
+    height: 130px;
+}
+.footer{
+    width: 780px;
+    margin-top: 30px;
+    
+    
+    
+}
+.card-footer img{
+    width: 20px;
+}
+.fot-color{
+    background-color: palevioletred;
+    border-radius: 8px;
+}
+.blue{
+    color: blueviolet;
 }
