@@ -1,0 +1,29 @@
+
+header{
+    margin-bottom: 20px;
+}
+.navbar-nav{
+    width: 40px;
+}
+.nav-link{
+    padding: 100px;
+}
+
+
+.top-player img{
+    width: 56px;
+    height: 56px;
+}
+/* .player{
+    display: flex;
+  
+} */
+main{
+    width: 780px;
+}
+.top-player{
+    
+}
+.flex{
+    display: flex;
+}
